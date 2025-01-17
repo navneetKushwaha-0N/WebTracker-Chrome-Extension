@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Website Usage Tracker",
+    "version": "1.0",
+    "description": "Track and log websites visited in the last 24 hours.",
+    "permissions": ["history", "tabs", "storage"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    }
+  }
+  
