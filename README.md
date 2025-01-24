@@ -84,3 +84,10 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contributing
 We welcome contributions! Feel free to submit issues or pull requests to improve this extension.
+
+---
+
+## Contact
+For any inquiries or feedback, please contact the project maintainers at:
+- Email: navneetkushwaha64@gmail.com
+- GitHub: [mollenmi](https://github.com/mollenmi)
