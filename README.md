@@ -78,7 +78,7 @@ Follow these steps to set up the extension:
 ---
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the  License. See the LICENSE file for more details.
 
 ---
 
