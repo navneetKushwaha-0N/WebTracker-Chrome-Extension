@@ -77,8 +77,6 @@ Follow these steps to set up the extension:
 
 ---
 
-## License
-This project is licensed under the  License. See the LICENSE file for more details.
 
 ---
 
