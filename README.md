@@ -64,7 +64,7 @@ Follow these steps to set up the extension:
 
 ## Technologies Used
 - **HTML5**: For creating the popup structure.
-- **CSS3**: For styling and 3D effects.
+- **CSS**: For styling and 3D effects.
 - **JavaScript**: For functionality and data manipulation.
 - **Chrome Extensions API**: For integrating with the browser.
 
