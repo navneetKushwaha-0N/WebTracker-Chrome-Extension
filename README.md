@@ -10,7 +10,7 @@ The **Website Tracker** Chrome extension keeps a record of all the websites visi
 2. **Export to CSV**: Users can export the tracked data to a CSV file with a single click.
 3. **Responsive and Interactive Design**:
    - Rounded corners and 3D effects for a modern interface.
-   - Hover and click effects on buttons .
+   - Hover and click effects on buttons.
    - Scrollable list for viewing website records.
 
 ---
