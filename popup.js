@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
       li.textContent = `${record.title || record.url} (${new Date(record.timestamp).toLocaleTimeString()})`;
       list.appendChild(li);
     });
-  });
+  });  
 
   // Export data to CSV
   exportButton.addEventListener("click", () => {
