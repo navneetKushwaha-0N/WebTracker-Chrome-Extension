@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const list = document.getElementById("website-list");
   const exportButton = document.getElementById("export-button");
-
+  
   // Load data and display it in the popup
   chrome.storage.local.get(["records"], (data) => {
     const records = data.records || [];
