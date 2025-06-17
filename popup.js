@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
       list.appendChild(li);
     });
   });  
-
+   
   // Export data to CSV
   exportButton.addEventListener("click", () => {
     chrome.storage.local.get(["records"], (data) => {
