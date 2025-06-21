@@ -32,7 +32,7 @@ The **Website Tracker** Chrome extension keeps a record of all the websites visi
 4. **Export Data**:
    - Click the **Export to CSV** button to download the data in CSV format.
 
----
+--- 
 
 ## File Structure
 ```
