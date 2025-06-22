@@ -15,7 +15,7 @@ body {
   border-radius: 15px; /* Rounded corners */
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19); /* 3D shadow */
   overflow: hidden; /* Ensures content doesn't overflow rounded corners */
-}
+} 
 
 /* Header */
 h1 {
