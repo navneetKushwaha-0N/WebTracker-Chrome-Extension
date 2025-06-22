@@ -17,7 +17,7 @@ body {
   overflow: hidden; /* Ensures content doesn't overflow rounded corners */
 } 
 
-/* Header */
+/* Header */  
 h1 {
   font-size: 1.8em;
   color: #4CAF50;
