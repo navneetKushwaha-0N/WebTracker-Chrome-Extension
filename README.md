@@ -14,7 +14,7 @@ The **Website Tracker** Chrome extension keeps a record of all the websites visi
    - Scrollable list for viewing website records. 
          
 ---         
-            
+              
 ## How to Use  
 1. **Install the Extension**: 
    - Download the source code or clone the repository.
