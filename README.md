@@ -83,7 +83,7 @@ Follow these steps to set up the extension:
 ## Contributing
 We welcome contributions! Feel free to submit issues or pull requests to improve this extension.
 
----
+---   
 
 ## Contact
 For any inquiries or feedback, please contact the project maintainers at:
