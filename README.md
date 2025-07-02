@@ -3,7 +3,7 @@
 ## Overview
 The **Website Tracker** Chrome extension keeps a record of all the websites visited within a 24-hour period and provides options to export this data to a CSV file for further analysis. The extension features a sleek, modern design with a 3D look and is easy to use.
      
----          
+---           
   
 ## Features  
 1. **Track Visited Websites**: Automatically records the title, URL, and timestamp of visited websites.
