@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
         alert("No data available to export.");
         return;
       }
-
+ 
       // Convert records to CSV
       const csvContent = "data:text/csv;charset=utf-8," +
         ["Title,URL,Timestamp"]
