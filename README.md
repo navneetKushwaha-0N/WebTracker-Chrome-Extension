@@ -5,7 +5,7 @@ The **Website Tracker** Chrome extension keeps a record of all the websites visi
   
           
 ---            
-        
+         
 ## Features  
 1. **Track Visited Websites**: Automatically records the title, URL, and timestamp of visited websites.
 2. **Export to CSV**: Users can export the tracked data to a C SV file with a single click. 
